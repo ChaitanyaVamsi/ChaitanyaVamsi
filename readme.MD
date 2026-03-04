@@ -59,9 +59,7 @@ Experienced in **AWS, Jenkins, Docker, Kubernetes, Bash scripting, and Terraform
 # 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaitanyaVamsi&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaitanyaVamsi&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaVamsi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -79,25 +77,6 @@ Experienced in **AWS, Jenkins, Docker, Kubernetes, Bash scripting, and Terraform
 <p align="center">
   <img src="https://github.com/ChaitanyaVamsi/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-## 📊 GitHub Insights & Achievements
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaitanyaVamsi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-  <!-- Trophy Card -->
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=ChaitanyaVamsi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-  <!-- Activity Graph -->
-  <br />
-  <img src="https://activity-graph.herokuapp.com/graph?username=ChaitanyaVamsi&theme=react-dark&area=true" alt="GitHub Activity Graph" />
-
-  <!-- Profile Views -->
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=ChaitanyaVamsi&style=flat-square&color=blue" alt="Profile Views" />
-</p>
----
 
 <p align="center">
   ⭐ DevOps | Cloud | Automation ⭐
