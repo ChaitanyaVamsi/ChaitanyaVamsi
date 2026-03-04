@@ -72,12 +72,8 @@ Experienced in **AWS, Jenkins, Docker, Kubernetes, Bash scripting, and Terraform
 
 ---
 
-## 🐍 Contribution Snake
+
 
 <p align="center">
-  <img src="https://github.com/ChaitanyaVamsi/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<p align="center">
-  ⭐ DevOps | Cloud | Automation ⭐
+  <em>"Automate everything, simplify all, and build to scale."</em>
 </p>
