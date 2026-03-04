@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-DevOps Engineer with **4 years of experience** in CI/CD pipeline design, AWS cloud infrastructure management, containerization, and automation.
+DevOps Engineer with **4+ years of experience** in CI/CD pipeline design, AWS cloud infrastructure management, containerization, and automation.
 
 Experienced in **AWS, Jenkins, Docker, Kubernetes, Bash scripting, and Terraform foundations**, with proven ability to reduce deployment time, improve production reliability, and support scalable, secure cloud environments.
 
