@@ -1,164 +1,87 @@
-<div align="center">
-  <img src="https://github.com/MEDASANI-CHARAN/MEDASANI-CHARAN/blob/main/git_banner5.png" alt="GitHub Banner" width="800"/>
-</div>
+<p align="center">
+  <h1 align="center">Chaitanya Vamsi</h1>
+  <h3 align="center">DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD</h3>
+</p>
 
-# 👋 Hi, I'm Chaitanya
-### Software Engineer II – SRE
-🚀 DevOps • SRE • Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform | Docker | Ansible | Linux | Shell Script | Mentor
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer+with+4+Years+Experience;AWS+Cloud+Infrastructure;CI%2FCD+Pipeline+Engineering;Docker+%7C+Kubernetes;Automation+with+Bash+%26+Terraform" />
+</p>
 
-[![Topmate](https://img.shields.io/badge/Topmate-Book%20a%201:1-green?logo=meetup&style=flat)](https://topmate.io/charan_medasani)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/charan-medasani/)
-[![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@medasanicharan66)
-[![Gmail](https://img.shields.io/badge/Email-medasanicharan66@gmail.com-red?logo=gmail&style=flat)](mailto:devsecops.cloudnai@gmail.com)
+## 🚀 About Me
 
----
+DevOps Engineer with **4+ years of experience** in CI/CD pipeline design, AWS cloud infrastructure management, containerization, and automation.
 
-Passionate **DevOps & AWS Cloud Engineer** with **4+ years of experience** in infrastructure automation, CI/CD, and container orchestration (Docker, Kubernetes). Skilled in Terraform, Jenkins, and GitHub Actions, delivering scalable, reliable, and efficient cloud environments. Dedicated to building automation-first solutions that enhance reliability and accelerate innovation.
+Experienced in **AWS, Jenkins, Docker, Kubernetes, Bash scripting, and Terraform foundations**, with proven ability to reduce deployment time, improve production reliability, and support scalable, secure cloud environments.
 
 ---
 
-<!-- ### 🧰 Tech Stack
-
-- **OS**                       : Linux
-- **Cloud**                    : AWS
-- **CI/CD**                    : Jenkins, GitHub Actions
-- **SCM**                      : GitHub
-- **IaC**                      : Terraform
-- **Configuration Management** : Ansible
-- **containerization**         : Docker
-- **Container Orchestration**  : Kubernetes
-- **Scripting**                : Shell, Python
-- **Monitoring**               : Prometheus, Grafana, Elk stack, CloudWatch
-- **Security**                 : IAM, RBAC
-- **Scanning Tools**           : SonarQube, Veracode, ECR Scan
-
---- -->
-
-## ⚡ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-
-### ☁️ Cloud Platform & OS
+### ☁️ Cloud & OS
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Scripting
-![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🛠️ DevOps & CI/CD
+### 🚀 DevOps & CI/CD
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🐳 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-%232C5263.svg?style=for-the-badge&logo=helm&logoColor=white)
 
-### 🔧 Infrastructure & Monitoring
+### 🔧 Infrastructure & Automation
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+### 📜 Scripting
+![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 📊 Monitoring
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
 ---
 
-### 🔧 What I Do
+# 🔥 What I Do
 
-- 🛠️ Build and manage infrastructure on **AWS**  using **Terraform** for repeatable, secure provisioning
-- ☁️ Operate services on **AWS Private Cloud** with **Kubernetes**, delivering secure and efficient internal deployments
-- 🚀 Design high-performance **CI/CD pipelines** using **AWS DevOps**, **GitHub Actions**, and **Jenkins**, reducing delivery friction
-- 🗃️ Manage codebases and collaboration with **GitHub** , ensuring streamlined source control and peer workflows
-- 🤖 Automate infrastructure and operational tasks using **Linux**, and **Shell scripting**, improving consistency and speed
-- 🧪 Enforce quality with **SonarQube**, and manage artifacts with **Nexus** and **JFrog Artifactory**
-- 🔐 Secure cloud environments using **IAM**, **RBAC**, and **Vault**, ensuring compliance and access control
-- 📈 Ensure observability and performance with **Splunk**, **Dynatrace**, **Prometheus**, and **CloudWatch**, minimizing downtime
+- 🛠️ Design and implement CI/CD pipelines using Jenkins
+- ☁️ Architect and manage AWS infrastructure (EC2, VPC, ASG, ALB/NLB, EBS, EFS)
+- 🐳 Containerize applications using Docker and support deployments on Kubernetes
+- 🔐 Implement IAM roles, policies, and Security Groups for secure access control
+- 🤖 Automate deployment and operational tasks using Bash scripting
+- 📈 Monitor infrastructure and applications using AWS CloudWatch
 
 ---
 
-### 📞 Book a 1:1 Session
+# 📊 GitHub Insights
 
-If you're looking to connect, discuss DevOps/SRE, get guidance, or collaborate:
-
-👉 [**Book a session with me on Topmate**](https://topmate.io/charan_medasani)
-*(Mentoring • Project Guidance • Career Advice)*
-
----
-
-## ⚙️ Skills Showcase
-
-<p align="left">
-  <!-- AWS -->
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" />
-</a>
-
-  <!-- IaC / Automation -->
-  <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" />
-  </a>
-  <a href="https://www.ansible.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" />
-  </a>
-
-  <!-- CI/CD -->
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" />
-  </a>
-
-  <!-- Containers -->
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" />
-  </a>
-
-  <!-- OS & Scripting -->
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />
-  </a>
-  <a href="https://maven.apache.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" alt="Maven" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-</a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChaitanyaVamsi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ChaitanyaVamsi&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaVamsi&theme=tokyonight&hide_border=true&layout=compact"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MEDASANI-CHARAN&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MEDASANI-CHARAN&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEDASANI-CHARAN&theme=dark&hide_border=false&layout=compact" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaitanyaVamsi&theme=tokyo-night" />
+</p>
 
 ---
 
-### 📊 GitHub Activity Graph
-[![charan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MEDASANI-CHARAN&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/ChaitanyaVamsi/snake/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/MEDASANI-CHARAN/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
----
-
-
-Thanks for visiting!
+<p align="center">
+  ⭐ DevOps | Cloud | Automation ⭐
+</p>
