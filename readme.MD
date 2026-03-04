@@ -59,9 +59,9 @@ Experienced in **AWS, Jenkins, Docker, Kubernetes, Bash scripting, and Terraform
 # 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaitanyaVamsi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ChaitanyaVamsi&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaVamsi&theme=tokyonight&hide_border=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChaitanyaVamsi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaitanyaVamsi&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaVamsi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ Experienced in **AWS, Jenkins, Docker, Kubernetes, Bash scripting, and Terraform
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/ChaitanyaVamsi/snake/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/ChaitanyaVamsi/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
