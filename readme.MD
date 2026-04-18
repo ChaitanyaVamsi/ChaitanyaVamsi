@@ -2,7 +2,7 @@
 <h3 align="center">DevOps Engineer | AWS | Kubernetes | Terraform | Jenkins | Docker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;AWS+Infrastructure+Automation;CI%2FCD+Pipelines+with+Jenkins;Docker+and+Kubernetes+Deployments;Terraform+for+Cloud+Provisioning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?4%2Bsize=20&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer+with+4%2B+Years+Experience;AWS+Cloud+Infrastructure;CI%2FCD+Pipeline+Engineering;Docker+%7C+Kubernetes;Automation+with+Bash+%26+Terraform" />
 </p>
 
 ## About Me
