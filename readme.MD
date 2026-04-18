@@ -1,80 +1,60 @@
+<h1 align="center">Chaitanya Vamsi</h1>
+<h3 align="center">DevOps Engineer | AWS | Kubernetes | Terraform | Jenkins | Docker</h3>
+
 <p align="center">
-  <h1 align="center">Chaitanya Vamsi</h1>
-  <h3 align="center">DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;AWS+Infrastructure+Automation;CI%2FCD+Pipelines+with+Jenkins;Docker+and+Kubernetes+Deployments;Terraform+for+Cloud+Provisioning" alt="Typing SVG" />
 </p>
 
+## About Me
+
+DevOps Engineer with hands-on experience in AWS, Docker, Kubernetes, Jenkins, Helm, Terraform, Linux, Git, and Shell scripting.
+
+I work on containerized applications, CI/CD automation, infrastructure provisioning, and Kubernetes deployments. My focus is on building reliable delivery pipelines, reusable infrastructure, and practical cloud-native deployment workflows.
+
+## Core Skills
+
+- AWS
+- Docker
+- Kubernetes
+- EKS
+- Jenkins
+- Terraform
+- Helm
+- Linux
+- Git
+- Shell Scripting
+- CI/CD
+- Infrastructure as Code
+
+## What I Work On
+
+- Build and maintain CI/CD pipelines using Jenkins
+- Containerize applications using Docker and Docker Compose
+- Deploy workloads to Kubernetes using manifests and Helm charts
+- Provision AWS infrastructure using Terraform
+- Work with VPC, security groups, bastion hosts, ALB, ECR, and EKS
+- Automate operational tasks using Shell scripting
+- Manage environment-specific deployment configurations
+
+## Featured Work
+
+- Dockerized microservices applications using service-level Dockerfiles and Compose-based orchestration
+- Built Jenkins pipelines for application build, image creation, and Kubernetes deployment workflows
+- Provisioned AWS infrastructure for EKS environments using modular Terraform code
+- Created Helm charts and Kubernetes manifests for repeatable deployments across environments
+
+
+
+## Contribution Activity
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer+with+4+Years+Experience;AWS+Cloud+Infrastructure;CI%2FCD+Pipeline+Engineering;Docker+%7C+Kubernetes;Automation+with+Bash+%26+Terraform" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaitanyaVamsi&theme=tokyo-night" alt="Contribution graph" />
 </p>
 
-## 🚀 About Me
-
-DevOps Engineer with **4+ years of experience** in CI/CD pipeline design, AWS cloud infrastructure management, containerization, and automation.
-
-Experienced in **AWS, Jenkins, Docker, Kubernetes, Bash scripting, and Terraform foundations**, with proven ability to reduce deployment time, improve production reliability, and support scalable, secure cloud environments.
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### ☁️ Cloud & OS
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🚀 DevOps & CI/CD
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### 🔧 Infrastructure & Automation
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-### 📜 Scripting
-![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 📊 Monitoring
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
-
----
-
-# 🔥 What I Do
-
-- 🛠️ Design and implement CI/CD pipelines using Jenkins
-- ☁️ Architect and manage AWS infrastructure (EC2, VPC, ASG, ALB/NLB, EBS, EFS)
-- 🐳 Containerize applications using Docker and support deployments on Kubernetes
-- 🔐 Implement IAM roles, policies, and Security Groups for secure access control
-- 🤖 Automate deployment and operational tasks using Bash scripting
-- 📈 Monitor infrastructure and applications using AWS CloudWatch
-
----
-
-# 📊 GitHub Insights
+## Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaitanyaVamsi&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaitanyaVamsi&theme=tokyo-night" />
-</p>
-
----
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chaitanya-vamsi/" target="_blank">
+  <a href="https://www.linkedin.com/in/chaitanya-vamsi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:vamsi.blaze1@gmail.com">
@@ -82,9 +62,6 @@ Experienced in **AWS, Jenkins, Docker, Kubernetes, Bash scripting, and Terraform
   </a>
 </p>
 
-
 <p align="center">
-  <em>"Automate everything, simplify all, and build to scale."</em>
+  Open to DevOps Engineer opportunities focused on AWS, Kubernetes, CI/CD, and Infrastructure Automation.
 </p>
-
----
