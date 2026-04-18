@@ -43,7 +43,15 @@ I work on containerized applications, CI/CD automation, infrastructure provision
 - Provisioned AWS infrastructure for EKS environments using modular Terraform code
 - Created Helm charts and Kubernetes manifests for repeatable deployments across environments
 
+---
 
+# 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaitanyaVamsi&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ## Contribution Activity
 
